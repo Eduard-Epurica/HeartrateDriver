@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production/HDC_Heartrate_Eduard_Epurica.X.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>1048576</length>
+      <used>21551</used>
+      <free>1027025</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>262144</length>
+      <used>2297</used>
+      <free>259847</free>
+    </memory>
+  </executable>
+</project>
